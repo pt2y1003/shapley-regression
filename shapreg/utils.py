@@ -1,6 +1,6 @@
 import pickle
 import numpy as np
-from shapreg import plotting
+from shapley_regression.shapreg import plotting
 
 
 def crossentropyloss(pred, target):

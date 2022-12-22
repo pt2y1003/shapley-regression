@@ -1,5 +1,5 @@
 import numpy as np
-from shapreg import utils, games, stochastic_games
+from shapley_regression.shapreg import utils, games, stochastic_games
 from tqdm.auto import tqdm
 
 

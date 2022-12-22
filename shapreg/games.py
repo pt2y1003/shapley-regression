@@ -1,5 +1,5 @@
 import numpy as np
-from shapreg import utils
+from shapley_regression.shapreg import utils
 
 
 class CooperativeGame:
